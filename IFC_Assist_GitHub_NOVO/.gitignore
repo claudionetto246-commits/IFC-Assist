@@ -1,0 +1,10 @@
+# Credenciais e configurações locais
+config/database.local.php
+config/database.php
+.env
+*.log
+
+# Sistema/IDE
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,20 @@
+IFC ASSIST — PACOTE FINAL
+
+1. Extraia esta pasta.
+2. Abra a pasta IFC_Assist_GitHub_NOVO no VS Code.
+3. Se o repositório GitHub já existir:
+   - copie/substitua os arquivos do projeto pelo conteúdo desta pasta;
+   - faça o commit com a mensagem:
+     chore: versão final do IFC Assist
+   - faça o push para o seu GitHub.
+
+4. Se estiver usando o GitHub pelo navegador:
+   - abra o repositório;
+   - envie os arquivos e pastas desta pasta;
+   - confirme o commit.
+
+IMPORTANTE:
+- config/database.php NÃO está incluído de propósito.
+- Copie config/database.example.php para config/database.php e coloque as credenciais do seu banco somente no servidor.
+- database.php está no .gitignore e não deve ser enviado ao GitHub.
+- O arquivo database/IFC_Assist_InfinityFree_SUBSTITUIR_BANCO.sql apaga e recria as tabelas. Use somente depois de fazer backup.
